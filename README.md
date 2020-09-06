@@ -1,2 +1,2 @@
 # hello
- Primeiro repositório versionado para test
+ Primeiro repositório versionado pelo Git e Github
